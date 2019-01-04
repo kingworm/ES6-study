@@ -8,6 +8,8 @@
 **[2]** Jascript Scoping and Hoisting [[blog(korean)]](http://chanlee.github.io/2013/12/10/javascript-variable-scope-and-hoisting)
 [[Ben Cherry]](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
 
+
+
 ## React
 
 ## React-Native
@@ -17,3 +19,7 @@
 ## Django
 
 ## REST-framework
+
+## Network
+
+**[1]** Django Big data processing method [[blog(korean)]](https://www.slideshare.net/JueunSeo1/django-64975491)
