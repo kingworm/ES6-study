@@ -5,7 +5,8 @@
 [[git]](https://github.com/airbnb/javascript)
 
 
-**[2]** Jascript Scope and Hoist [[blog]](http://chanlee.github.io/2013/12/10/javascript-variable-scope-and-hoisting)
+**[2]** Jascript Scoping and Hoisting [[blog(korean)]](http://chanlee.github.io/2013/12/10/javascript-variable-scope-and-hoisting)
+[[Ben Cherry]](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
 
 ## React
 
