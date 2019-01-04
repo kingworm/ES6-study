@@ -22,4 +22,4 @@
 
 ## Network
 
-**[1]** Django Big data processing method [[blog(korean)]](https://www.slideshare.net/JueunSeo1/django-64975491)
+**[1]** Django Big data processing method [SlideShare(korean)](https://www.slideshare.net/JueunSeo1/django-64975491)
