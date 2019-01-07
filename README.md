@@ -18,9 +18,17 @@
 
 ## Django
 
+**[1]** Django setting up with React [site](http://v1k45.com/blog/modern-django-part-1-setting-up-django-and-react/)
+
 ## REST-framework
 
 **[1]** SPA Development by React with Redux and Django [site](http://webframeworks.kr/tutorials/react/react-django-full-stack-spa)
+
+
+**[2]** Django REST with React [Tutorial](https://www.valentinog.com/blog/tutorial-api-django-rest-react/)
+
+
+
 
 ## Network
 
