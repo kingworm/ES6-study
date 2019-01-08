@@ -9,6 +9,7 @@
 [Ben Cherry](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
 
 
+**[3]** Promise [blog(korean)](https://programmingsummaries.tistory.com/325) [Tutorial](http://webframeworks.kr/tutorials/translate/es6-promise-api-1/)
 
 ## React
 
