@@ -11,6 +11,8 @@
 
 **[3]** Promise [blog(korean)](https://programmingsummaries.tistory.com/325) [Tutorial](http://webframeworks.kr/tutorials/translate/es6-promise-api-1/)
 
+
+**[4]** You don't know JS [git](https://github.com/kingworm/You-Dont-Know-JS)
 ## React
 
 ## React-Native
