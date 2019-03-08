@@ -15,7 +15,11 @@
 **[4]** You don't know JS [git](https://github.com/kingworm/You-Dont-Know-JS)
 ## React
 
+**[1]** React Component lifecycle [site](https://velopert.com/1130)
+
 ## React-Native
+
+
 **[1]** Baemin Riders App Development Report [site](http://woowabros.github.io/experience/2018/05/19/build-app-by-react-native.html)
 ## NodeJS
 
